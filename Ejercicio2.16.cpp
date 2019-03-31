@@ -21,6 +21,6 @@ int main()
 	printf("El resultado de la suma es %d\n", r1);
 	printf("El resultado de la multiplicacion es %d\n", r2);
 	printf("El resultado de la resta es %d\n", r3);
-	printf("El resultado de la division es %d\n", r4);
+	printf("El resultado de la division es %d\n",float r4);
 	_getch();
 }
