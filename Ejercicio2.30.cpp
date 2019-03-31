@@ -24,6 +24,13 @@ int main()
 		re = (y * 703) / (z * z);
 		cout << "Su BMI es:" << re << "lb/pulg^2";
 
+		printf("Valores de BMI\n");
+		printf("Bajo peso: menos de 18.5\n");
+		printf("Normal: entre 18.5 y 24.9\n");
+		printf("Sobrepeso: entre 25 y 29.9\n");
+		printf("Obeso: 30 o mas\n");
+
+		printf("Ahora evalue su condicion y comuniquesela a su medico");
 	}
 	else {
 		if (x == 2)
@@ -37,14 +44,22 @@ int main()
 			int re;
 			re = y / (z * z);
 			cout << "Su BMI es:" << re << "kg/m^2";
+
+			printf("Valores de BMI\n");
+			printf("Bajo peso: menos de 18.5\n");
+			printf("Normal: entre 18.5 y 24.9\n");
+			printf("Sobrepeso: entre 25 y 29.9\n");
+			printf("Obeso: 30 o mas\n");
+
+			printf("Ahora evalue su condicion y comuniquesela a su medico");
+
+
 		}
 		else {
 			printf("No valido");
 		}
-
-
-	
 	}
-		
+	
+
 	_getch();
 }
