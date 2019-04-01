@@ -1,7 +1,7 @@
 ¿Qué imprime el siguiente código?
 cout << "*\n**\n***\n****" << endl
 
-Rpta: Imprime esto:
+Rpta: Imprime lo siguiente:
 *
 **
 ***
