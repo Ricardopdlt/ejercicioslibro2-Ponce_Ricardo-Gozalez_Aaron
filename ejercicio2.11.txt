@@ -1,0 +1,10 @@
+Complete cada una de las sgtes oraciones:
+
+a)¿Qué operaciones aritméticas se encuentran en el mismo nivel de precedencia que la multiplicación?
+RPTA: División y Módulo.
+
+b)Cuando los paréntesis están anidados, ¿qué conjunto de paréntesis se evalúa primero en una expresión aritmética?
+RPTA: El conjunto que se encuentra más al centro de la expresión aritmética.
+
+c)Una ubicación en la memoria de la computadora que puede contener distintos valores en distintos momentos durante la ejecución de un programa se llama:
+RPTA: Variable

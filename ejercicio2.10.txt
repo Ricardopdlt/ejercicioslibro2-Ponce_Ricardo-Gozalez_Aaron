@@ -1,0 +1,16 @@
+Indique si los sgtes enunciados son V o F. Si es F, explique su respuesta.
+
+a) Los operadores de C++ se evalúan de izquierda a derecha 
+RPTA: V, pero sí son aritméticos también se considera su tabla de precedencia.
+
+b) Los sgtes nombres de variables son todos válidos: _barra_inferior_, m928134, t5, j7 , sus_ventas, su_cuenta_total, a, b, c, z, z2.
+RPTA: V
+
+c) La instrucción cout <<"a=5;"; es un ejemplo típico de una instrucción de asignación.
+RPTA: F, las instrucciones de asignación se llevan a cabo con el objeto de flujo de entrada cin.
+
+d) Una expresión aritmética válida de C++ sin paréntesis se evalúa de izquierda a derecha.
+RPTA: V, pero considerando la tabla de precedencia de los operadores.
+
+e) Los sgtes nombres de variables son todos inválidos: 3g, 87, 67h2, h22, 2h.
+RPTA: F, no todos son inválidos, el nombre de variable h22 es válido.

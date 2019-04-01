@@ -1,0 +1,5 @@
+Hable sobre el significado de cada uno de los objetos:
+
+a) std::cin  RPTA: Consiste en un objeto de flujo de entrada que se utiliza para ingresar datos.
+
+b) std::cout RPTA: Consiste en un objeto de flujo de salida que se utiliza para mostrar datos.
