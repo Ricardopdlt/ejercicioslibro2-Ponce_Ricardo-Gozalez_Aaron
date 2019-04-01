@@ -1,0 +1,20 @@
+¿Qué se imprime (si acaso) cuando se ejecutan las siguientes instrucciones de C++?
+Si no se imprime nada, entonces responda "nada". Suponga x=2 y y=3.
+
+a) cout << x;                       RPTA: 2
+
+b) cout << x + x;                   RPTA: 4                       
+
+c) cout << "x=";                    RPTA: X=                  
+
+d) cout << "x=" << x;               RPTA: X=2               
+
+e) cout << x + y << "=" << y + x;   RPTA: 5=5          
+
+f) z = x + y;                       RPTA: Nada       
+
+g) cin >> x >> y;                   RPTA: Nada               
+
+h) //cout << "x+y=" << x+y;         RPTA: Nada          
+
+i) cout << "\n";                    RPTA: No imprime nada pero se cambia de línea          
