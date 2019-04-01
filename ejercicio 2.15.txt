@@ -1,0 +1,11 @@
+Dada la ecuación algebraica y=a*x^3+7
+¿Cuáles de las siguientes instrucciones (si acaso) en C++ son correctas para esta ecuación?
+
+a) y = a * x * x * x + 7;
+b) y = a * x * x * ( x + 7 );
+c) y = ( a * x ) * x * ( x + 7 );
+d) y = ( a * x ) * x * x + 7;
+e) y = a * ( x * x * x ) + 7;
+f) y = a * x * ( x * x + 7 );
+
+RPTA: a, d , e.
